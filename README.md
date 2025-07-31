@@ -7,4 +7,4 @@ Raven-Reloaded is a **fork of the popular Raven XD client**, bringing custom imp
 This project is designed for players who want a more stable and enhanced version of the original client.
 
 
-#Raven XD #RavenBs #raven client #ravenb++
+Raven XD, RavenBS, raven client, ravenb++
