@@ -1,6 +1,7 @@
 # Raven-Reloaded
 
-[![Join our Discord](https://invidget.switchblade.xyz/gp995R5Y)](https://discord.gg/UH7HQpWrGf)
+[![N9MsHHdFbu](https://cdn.discordapp.com/icons/1385479857281962014/ICON_HASH.png)](https://discord.gg/UH7HQpWrGf)
+
 
 
 Raven-Reloaded is a **fork of the popular Raven XD client**, bringing custom improvements, bug fixes, and extended functionality.  
